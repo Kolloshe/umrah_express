@@ -1,0 +1,116 @@
+{
+  "code": 200,
+  "error": false,
+  "message": "Prebook success",
+  "data": {
+    "customizeId": "635655e1653c03501e6135a2",
+    "payment": {
+      "user_currency": "AED",
+      "package_amount_without_any_discount": "519",
+      "package_amount_with_coupon_discount": "519",
+      "package_amount_with_coupon_with_credit": "489",
+      "package_amount_with_coupon_with_credit_with_other_discounts": "489",
+      "final_selling_amount": "489",
+      "pay_full_amount_by_credit": false,
+      "pay_partial_amount_by_credit": false,
+      "discounts": {
+        "total_discount": {
+          "currency": "AED",
+          "amount": "30",
+          "user_currency": "AED",
+          "user_amount": "30"
+        },
+        "credit": {
+          "currency": "AED",
+          "amount": "0",
+          "user_currency": "AED",
+          "user_amount": "0"
+        },
+        "game_points_discount": {
+          "currency": "AED",
+          "amount": "30",
+          "user_currency": "AED",
+          "user_amount": "30"
+        },
+        "coupons": {
+          "currency": "AED",
+          "amount": "0",
+          "user_currency": "AED",
+          "user_amount": "0"
+        }
+      }
+    },
+    "user_credits": {
+      "credit_currency": "AED",
+      "credit_existing": "0",
+      "credit_can_be_used": "0",
+      "credit_balance_after_usage": "0"
+    },
+    "details": {
+      "package_name": "Dubai(2N) in Royal Falcon Hotel",
+      "package_days": 2,
+      "package_start": "2023-01-28",
+      "package_end": "2023-01-30",
+      "hotel": [
+        {
+          "name": "Royal Falcon Hotel",
+          "starRating": "3",
+          "hotelImage": "http://192.168.0.222/ibookholiday/image?key=eyJpdiI6Ik1JSVdjVjdqMXVJeExtT0VOSEVSUnc9PSIsInZhbHVlIjoiQmd4NmhjNjIzczhpTDVCMll6cXVNSDU1M3FzcmI5d2ZQSWx2bmN4ekFpSCs1ZlpjdHNESmxoUUpQNzhNSHVLSW81d3prR3EyQWtVVXV0a2l5dUNWdkdsYXc3Q2RtMXJ3MDJLbmRtbEpaclRXSkQ3ZXpFTThCbDlqWkRyT21leGsiLCJtYWMiOiJkZmEyOTBiNjY2OGY1YmZhYjJhYzY5N2U0YjExYzJiMWIwNWM5NjM2ZmJkNjYxZmE1YjI3MzYyYThiNGFiZmZiIiwidGFnIjoiIn0%3D"
+        }
+      ],
+      "adults_count": 1,
+      "children_count": 0,
+      "infants_count": 0,
+      "no_flights": true,
+      "no_hotels": false,
+      "no_transfers": true,
+      "no_activities": true
+    },
+    "holder": {
+      "email": "test@testt.com",
+      "code": "00971",
+      "phone": "581214789",
+      "title": "Mr",
+      "firstName": "Jeybin",
+      "lastname": "George"
+    },
+    "passengers": [
+      {
+        "guestId": "0",
+        "guestType": null,
+        "guestAgeType": "ADULT",
+        "guestTitle": "Mr",
+        "guestName": "Jeybin",
+        "guestSurame": "George",
+        "guestDob": "1992-03-19",
+        "guestPassportIssue": "AE",
+        "guestPassportNo": "P32342343",
+        "guestPassportExpiry": "2024-01-01",
+        "guestNationality": "AE",
+        "guestDobFormat": "1992-03-19",
+        "dob": "19/03/1992",
+        "guestPassportExpiryFormat": "2024-01-01T00:00:00.000Z",
+        "passportExpiry": "01/01/2024",
+        "guestNationalityName": "United Arab Emirates",
+        "guestPassportIssueName": "United Arab Emirates"
+      }
+    ],
+    "specialRequest": [
+      {
+        "interconnecting_rooms": false,
+        "smoking_room": false,
+        "non_smoking_room": false,
+        "room_low_floor": false,
+        "room_high_floor": false,
+        "vip_guest": false,
+        "honeymoon": false,
+        "babycot": false,
+        "birthday": false,
+        "anniversary": false,
+        "other_request": null
+      }
+    ],
+    "selectedSpecialRequests": [],
+    "specialRequestComment": ""
+  }
+}

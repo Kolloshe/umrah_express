@@ -1,0 +1,23 @@
+{
+    "provider": "apple_pay",
+    "data": {
+
+      "merchantIdentifier": "merchant.com.ibh.app",
+      "displayName": "I Book Holiday",
+      "merchantCapabilities": [
+        "3DS",
+        "debit",
+        "credit"
+      ],
+      "supportedNetworks": [
+        "amex",
+        "visa",
+        "discover",
+        "masterCard"
+      ],
+      "countryCode": "US",
+      "currencyCode": "USD",
+      "requiredBillingContactFields": null, 
+      "requiredShippingContactFields": null
+    }
+  }

@@ -1,0 +1,1798 @@
+{
+  "language": "Language",
+  "@language": {
+    "description": "The current Language"
+  },
+  "en": "EN",
+  "@en": {
+    "description": "The current Language"
+  },
+  "ar": "اللغه العربيه",
+  "@ar": {
+    "description": "The current Language"
+  },
+  "choose_your_holiday": "Choose your holiday packages",
+  "@choose_your_holiday": {
+    "description": "The current Language"
+  },
+  "where_From": "Where From?",
+  "@where_From": {
+    "description": "The current Language"
+  },
+  "your_Current_Location": "Your Current Location:",
+  "@your_Current_Location": {
+    "description": "The current Language"
+  },
+  "where_Are_You_Going": "Where are you going",
+  "@where_Are_You_Going": {
+    "description": "The current Language"
+  },
+  "when_will_you_be_there": "When will you be there",
+  "@when_will_you_be_there": {
+    "description": "The current Language"
+  },
+  "next": "Next",
+  "@next": {
+    "description": "The current Language"
+  },
+  "errorSelectRangDate": "Please select range date",
+  "@errorSelectRangDate": {
+    "description": "The current Language"
+  },
+  "errorSelectAtLeastNumOfDays": "Please select at least {daysNum} days",
+  "@errorSelectAtLeastNumOfDays": {
+    "description": "The current Language",
+    "placeholders": {
+      "daysNum": {
+        "type": "String"
+      }
+    }
+  },
+  "who_Coming": "Who's coming?",
+  "@who_Coming": {
+    "description": "The current Language"
+  },
+  "rooms": "Rooms",
+  "@rooms": {
+    "description": "The current Language"
+  },
+  "room": "Room",
+  "@room": {
+    "description": "The current Language"
+  },
+  "adults": "Adults",
+  "@adults": {
+    "description": "The current Language"
+  },
+  "children": "Children",
+  "@children": {
+    "description": "The current Language"
+  },
+  "holiday_Tuning": "Holiday tuning",
+  "@holiday_Tuning": {
+    "description": "The current Language"
+  },
+  "errorAddYorCurrentLocation": "Please add yor current location",
+  "@errorAddYorCurrentLocation": {
+    "description": "The current Language"
+  },
+  "preferredAirline": "Preferred airline",
+  "@preferredAirline": {
+    "description": "The current Language"
+  },
+  "flightClass": "Flight class",
+  "@flightClass": {
+    "description": "The current Language"
+  },
+  "economic": "Economic",
+  "@economic": {
+    "description": "The current Language"
+  },
+  "business": "Business",
+  "@business": {
+    "description": "The current Language"
+  },
+  "firstClass": "First class",
+  "@firstClass": {
+    "description": "The current Language"
+  },
+  "premiumEconomy": "Premium Economy",
+  "@premiumEconomy": {
+    "description": "The current Language"
+  },
+  "preferredHotel": "Preferred Hotel",
+  "@preferredHotel": {
+    "description": "The current Language"
+  },
+  "hotelStars": " Hotel stars",
+  "@hotelStars": {
+    "description": "The current Language"
+  },
+  "preferredBudgets": "Preferred Budgets",
+  "@preferredBudgets": {
+    "description": "The current Language"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "The current Language"
+  },
+  "clearSavedSettings": "Clear saved settings",
+  "@clearSavedSettings": {
+    "description": "The current Language"
+  },
+  "catchTheCoins": " Catch the coins to unlock your Discount!",
+  "@catchTheCoins": {
+    "description": "The current Language"
+  },
+  "hardLuck": "Hard Luck.. :( May be next time..",
+  "@hardLuck": {
+    "description": "The current Language"
+  },
+  "coins": "Coins: ",
+  "@coins": {
+    "description": "The current Language"
+  },
+  "lifePoint": "Life point : ",
+  "@lifePoint": {
+    "description": "The current Language"
+  },
+  "congrats": "Congrats !",
+  "@congrats": {
+    "description": "The current Language"
+  },
+  "congratsYouVeGot": "Congrats! You’ve got {discount} {gencurrency} ... discount! :)",
+  "@congratsYouVeGot": {
+    "description": "The current Language",
+    "placeholders": {
+      "discount": {
+        "type": "String"
+      },
+      "gencurrency": {
+        "type": "String"
+      }
+    }
+  },
+  "hurray": "Hurray ",
+  "@hurray": {
+    "description": "The current Language"
+  },
+  "destination": "Destination",
+  "@destination": {
+    "description": "The current Language"
+  },
+  "dates": "Dates",
+  "@dates": {
+    "description": "The current Language"
+  },
+  "filters": "Filters",
+  "@filters": {
+    "description": "The current Language"
+  },
+  "sort": "Sort",
+  "@sort": {
+    "description": "The current Language"
+  },
+  "passenger": "{count,plural, =0{No passenger} =1{1 passenger} other{{count} passengers}}",
+  "@passenger": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "roomCount": "{count,plural, =0{No rooms} =1{1 room} other{{count} rooms}}",
+  "@roomCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "currency": "Currency",
+  "@Currency": {
+    "description": "The current Language"
+  },
+  "close": "Close",
+  "@Close": {
+    "description": "The current Language"
+  },
+  "streetview": "Street View",
+  "@streetview": {
+    "description": "The current Language"
+  },
+  "mapView": "Map View",
+  "@mapView": {
+    "description": "The current Language"
+  },
+  "totalP": "Total price",
+  "@totalP": {
+    "description": "The current Language"
+  },
+  "lowestToHighest": "Lowest to Highest",
+  "@lowestToHighest": {
+    "description": "The current Language"
+  },
+  "highestToLowest": "Highest to Lowest",
+  "@highestToLowest": {
+    "description": "The current Language"
+  },
+  "pleasewait": "   Please wait...",
+  "@please wait": {
+    "description": "The current Language"
+  },
+  "max": "Max",
+  "@max": {
+    "description": "The current Language"
+  },
+  "min": "Min",
+  "@min": {
+    "description": "The current Language"
+  },
+  "fStops": "Flight Stops",
+  "@fStops": {
+    "description": "The current Language"
+  },
+  "flightStop": "{count,plural, =0{Direct} =1{One stop} other{{count} stops}}",
+  "@flightStop": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "yourDepartureFlight": "Your departure flight",
+  "@yourDepartureFlight": {
+    "description": "The current Language"
+  },
+  "yourhotel": " Your hotel",
+  "@yourhotel": {
+    "description": "The current Language"
+  },
+  "yourhotels": " Your hotels",
+  "@yourhotels": {
+    "description": "The current Language"
+  },
+  "viewHotelDetails": "View Hotel Details",
+  "@viewHotelDetails": {
+    "description": "The current Language"
+  },
+  "yourActivity": "  Your activity",
+  "@yourActivity": {
+    "description": "The current Language"
+  },
+  "yourTransfer": "  Your transfer",
+  "@yourTransfer": {
+    "description": "The current Language"
+  },
+  "toHotel": " To hotel",
+  "@toHotel": {
+    "description": "The current Language"
+  },
+  "type": "Type",
+  "@type": {
+    "description": "The current Language"
+  },
+  "pickup": "Pick-Up",
+  "@pickup": {
+    "description": "The current Language"
+  },
+  "dropOff": "Drop-Off",
+  "@dropOff": {
+    "description": "The current Language"
+  },
+  "toAirport": "  To airport",
+  "@toAirport": {
+    "description": "The current Language"
+  },
+  "yourArrivalFlight": "  Your return flight",
+  "@yourArrivalFlight": {
+    "description": "The current Language"
+  },
+  "totalPACKAGEPRICE": "TOTAL PACKAGE PRICE ",
+  "@totalPACKAGEPRICE": {
+    "description": "The current Language"
+  },
+  "bookNow": "  Book now",
+  "@bookNow": {
+    "description": "The current Language"
+  },
+  "needHelp": "Need help ?",
+  "@needHelp": {
+    "description": "The current Language"
+  },
+  "hotelDetails": "Hotel Details",
+  "@hotelDetails": {
+    "description": "The current Language"
+  },
+  "errorNoActivities": "There are no activities in your holiday package, please click + button to add activities.",
+  "@errorNoActivities": {
+    "description": "The current Language"
+  },
+  "theyAreNoTransfer": "They are no transfer",
+  "@theyAreNoTransfer": {
+    "description": "The current Language"
+  },
+  "removeSectionMsG": "has been removed, use + button to add your",
+  "@removeSectionMsG": {
+    "description": "The current Language"
+  },
+  "removeHotelChangeTheTransfer": "you just remove the hotel service independent on that you have to change your transfer destination",
+  "@removeHotelChangeTheTransfer": {
+    "description": "The current Language"
+  },
+  "flightDetails": "Flight Details",
+  "@flightDetails": {
+    "description": "The current Language"
+  },
+  "departureInformation": "Departure Information",
+  "@departureInformation": {
+    "description": "The current Language"
+  },
+  "returnInformation": "Return Information",
+  "@returnInformation": {
+    "description": "The current Language"
+  },
+  "changeIn": "Change in",
+  "@changeIn": {
+    "description": "The current Language"
+  },
+  "waitingTime": "Waiting Time",
+  "@waitingTime": {
+    "description": "The current Language"
+  },
+  "baggageDetails": "Baggage Details",
+  "@baggageDetails": {
+    "description": "The current Language"
+  },
+  "changeFlightAppbarTitle": "Choose your alternative flight",
+  "@changeFlightAppbarTitle": {
+    "description": "The current Language"
+  },
+  "searchByAirlines": "Search by Airlines",
+  "@SearchByAirlines": {
+    "description": "The current Language"
+  },
+  "packagePriceDifference": "Package Price Difference",
+  "@packagePriceDifference": {
+    "description": "The current Language"
+  },
+  "contin": "Continue",
+  "@contin": {
+    "description": "The current Language"
+  },
+  "flightHasBeenChange": "Flight has been change successfully",
+  "@flightHasBeenChange": {
+    "description": "The current Language"
+  },
+  "select": "Select",
+  "@select": {
+    "description": "The current Language"
+  },
+  "hotelAddress": "Hotel Address",
+  "@hotelAddress": {
+    "description": "The current Language"
+  },
+  "hotelFacilities": "Hotel facilities",
+  "@hotelFacilities": {
+    "description": "The current Language"
+  },
+  "checkIn": "Check In",
+  "@checkIn": {
+    "description": "The current Language"
+  },
+  "checkOut": "Check Out",
+  "@checkOut": {
+    "description": "The current Language"
+  },
+  "roomDetails": "Room Details",
+  "@roomDetails": {
+    "description": "The current Language"
+  },
+  "roomCategory": "Room Category:",
+  "@roomCategory": {
+    "description": "The current Language"
+  },
+  "chooseAlternativeHotel": "Choose your alternative hotel",
+  "@chooseAlternativeHotel": {
+    "description": "The current Language"
+  },
+  "searchByHotelName": "Search by hotel name",
+  "@searchByHotelName": {
+    "description": "The current Language"
+  },
+  "availableRoom": "Available Room",
+  "@availableRoom": {
+    "description": "The current Language"
+  },
+  "hotelHasBeenChange": "Hotel has been change",
+  "@hotelHasBeenChange": {
+    "description": "The current Language"
+  },
+  "roomhasBeenChanged": "The room has been changed",
+  "@roomhasBeenChanged": {
+    "description": "The current Language"
+  },
+  "manageYourActivities": "Manage your daily activities",
+  "@manageYourActivities": {
+    "description": "The current Language"
+  },
+  "noActivity": "No Activity",
+  "@noActivity": {
+    "description": "The current Language"
+  },
+  "wouldYouLikeToBookAnyActivity": "Would you like to book any activity on this day?",
+  "@wouldYouLikeToBookAnyActivity": {
+    "description": "The current Language"
+  },
+  "estimatedArrivalTime": "Your estimated arrival time is on",
+  "@estimatedArrivalTime": {
+    "description": "The current Language"
+  },
+  "nextDayNoActivity": "(Next Day) You won't be able to book any activity on that day.",
+  "@nextDayNoActivity": {
+    "description": "The current Language"
+  },
+  "youWonBeAbleAnyActivityDay": "You won't be able to book any activity on that day",
+  "@youWonBeAbleAnyActivityDay": {
+    "description": "The current Language"
+  },
+  "estimatedDepartureTime": "Your estimated departure time is on",
+  "@estimatedDepartureTime": {
+    "description": "The current Language"
+  },
+  "viewDetails": "View Details",
+  "@viewDetails": {
+    "description": "The current Language"
+  },
+  "changeActivity": "Change Activity",
+  "@changeActivity": {
+    "description": "The current Language"
+  },
+  "removeActivity": "Remove Activity",
+  "@removeActivity": {
+    "description": "The current Language"
+  },
+  "addActivity": "Add Activity",
+  "@addActivity": {
+    "description": "The current Language"
+  },
+  "availableActivity": "Available Activity",
+  "@availableActivity": {
+    "description": "The current Language"
+  },
+  "noActivitiesAvailableAtThisTime": "No activities available at this time",
+  "@noActivitiesAvailableAtThisTime": {
+    "description": "The current Language"
+  },
+  "activityHasChange": "Activity has been change successfully",
+  "@activityHasChange": {
+    "description": "The current Language"
+  },
+  "cantAddThisActivityAtThisMoments": "Can't Add This Activity at this moments Please select other activity",
+  "@cantAddThisActivityAtThisMoments": {
+    "description": "The current Language"
+  },
+  "activityFailedToBooking": "This Activity failed to booking please choose other one",
+  "@activityFailedToBooking": {
+    "description": "The current Language"
+  },
+  "sureToCancelTheBooking": "Are you sure to cancel the booking",
+  "@sureToCancelTheBooking": {
+    "description": "The current Language"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "The current Language"
+  },
+  "activityName": " Activity name",
+  "@activityName": {
+    "description": "The current Language"
+  },
+  "activityDate": "Activity date",
+  "@activityDate": {
+    "description": "The current Language"
+  },
+  "description": "Description",
+  "@Description": {
+    "description": "The current Language"
+  },
+  "activityHasBeenRemoved": "The activity has been removed",
+  "@activityHasBeenRemoved": {
+    "description": "The current Language"
+  },
+  "transfer": "Transfer",
+  "@transfer": {
+    "description": "The current Language"
+  },
+  "selectTheTransfer": "Select the transfer",
+  "@selectTheTransfer": {
+    "description": "The current Language"
+  },
+  "skip": "Skip",
+  "@Skip": {
+    "description": "The current Language"
+  },
+  "previous": "Previous",
+  "@previous": {
+    "description": "The current Language"
+  },
+  "cantSkipBoth": "you can't Skip both please select one",
+  "@cantSkipBoth": {
+    "description": "The current Language"
+  },
+  "transferHasBeenAdded": "Transfer has been added",
+  "@transferHasBeenAdded": {
+    "description": "The current Language"
+  },
+  "cantAddTransferFor": "We can't add Transfer for this Package",
+  "@cantAddTransferFor": {
+    "description": "The current Language"
+  },
+  "selectOneOrPressSkip": "Please select Transfer",
+  "@selectOneOrPressSkip": {
+    "description": "The current Language"
+  },
+  "youTryToChangeTheTransferManyTime": "You try to change the transfer many time we can't add transfer to this package\nTap to Continue booking",
+  "@youTryToChangeTheTransferManyTime": {
+    "description": "The current Language"
+  },
+  "areUSureToRemoveServices": "Are you sure you want to remove this service ?",
+  "@areUSureToRemoveServices": {
+    "description": "The current Language"
+  },
+  "remove": "Remove",
+  "@remove": {
+    "description": "The current Language"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "The current Language"
+  },
+  "flightHasBeenRemoved": "Flight has been removed",
+  "@flightHasBeenRemoved": {
+    "description": "The current Language"
+  },
+  "hotelHasRemoved": "Hotel has been removed",
+  "@hotelHasRemoved": {
+    "description": "The current Language"
+  },
+  "transferHasBeenRemoved": "Transfer has been removed",
+  "@transferHasBeenRemoved": {
+    "description": "The current Language"
+  },
+  "theyAreNoAlternativeTransfer": "They are no alternative transfer available at this moments",
+  "@theyAreNoAlternativeTransfer": {
+    "description": "The current Language"
+  },
+  "flight": "Flight",
+  "@flight": {
+    "description": "The current Language"
+  },
+  "firstName": "First Name",
+  "@firstName": {
+    "description": "The current Language"
+  },
+  "surname": "Surname",
+  "@surname": {
+    "description": "The current Language"
+  },
+  "nationality": "Nationality",
+  "@nationality": {
+    "description": "The current Language"
+  },
+  "passportNumber": "Passport number",
+  "@passportNumber": {
+    "description": "The current Language"
+  },
+  "passportExpiry": "passport Expiry date",
+  "@passportExpiry": {
+    "description": "The current Language"
+  },
+  "chooseFromPassList": "Choose from passenger list",
+  "@chooseFromPassList": {
+    "description": "The current Language"
+  },
+  "scanUrDoc": "Scan your documents",
+  "@scanUrDoc": {
+    "description": "The current Language"
+  },
+  "passTitle": "Passenger Title",
+  "@passTitle": {
+    "description": "The current Language"
+  },
+  "dOfB": "Date of birth",
+  "@dOfB": {
+    "description": "The current Language"
+  },
+  "rSmokingRoom": "Require a Smoking Room",
+  "@rSmokingRoom": {
+    "description": "The current Language"
+  },
+  "nSmokingRoom": "Require a Non Smoking Room",
+  "@nSmokingRoom": {
+    "description": "The current Language"
+  },
+  "rLowFloor": "Request Room on a Low Floor",
+  "@rLowFloor": {
+    "description": "The current Language"
+  },
+  "rHighFloor": "Request Room on a High Floor",
+  "@rHighFloor": {
+    "description": "The current Language"
+  },
+  "honeymoonTrip": "Honeymoon Trip",
+  "@honeymoonTrip": {
+    "description": "The current Language"
+  },
+  "rBabyCot": "Request for a Baby Cot",
+  "@rBabyCot": {
+    "description": "The current Language"
+  },
+  "celebratingBirthday": "Celebrating Birthday",
+  "@celebratingBirthday": {
+    "description": "The current Language"
+  },
+  "celebratingAnniversary": "Celebrating Anniversary",
+  "@celebratingAnniversary": {
+    "description": "The current Language"
+  },
+  "wUAddComment": "   Would you like to add a comment",
+  "@wUAddComment": {
+    "description": "The current Language"
+  },
+  "bookingSummary": "Booking summary",
+  "@bookingSummary": {
+    "description": "The current Language"
+  },
+  "nights": "nights",
+  "@nights": {
+    "description": "The current Language"
+  },
+  "days": "days",
+  "@days": {
+    "description": "The current Language"
+  },
+  "cancellationPolicy": "Cancellation policy",
+  "@cancellationPolicy": {
+    "description": "The current Language"
+  },
+  "alsoIncludes": "ALSO INCLUDES",
+  "@alsoIncludes": {
+    "description": "The current Language"
+  },
+  "roundTrip": "Round Trip",
+  "@roundTrip": {
+    "description": "The current Language"
+  },
+  "coupon": "Apply Coupon",
+  "@coupon": {
+    "description": "The current Language"
+  },
+  "removeTheCoupon": "Remove the Coupon",
+  "@removeTheCoupon": {
+    "description": "The current Language"
+  },
+  "couponCode": "Coupon code",
+  "@couponCode": {
+    "description": "The current Language"
+  },
+  "orderSummary": "Order Summary",
+  "@orderSummary": {
+    "description": "The current Language"
+  },
+  "initialAmount": "Initial amount",
+  "@initialAmount": {
+    "description": "The current Language"
+  },
+  "discount": "Discount",
+  "@discount": {
+    "description": "The current Language"
+  },
+  "iHaveReadAndAccept": "I have read and accept the",
+  "@iHaveReadAndAccept": {
+    "description": "The current Language"
+  },
+  "generalTerms": " general terms",
+  "@generalTerms": {
+    "description": "The current Language"
+  },
+  "andCancellationPolicyConditions": " and cancellation policy conditions.",
+  "@andCancellationPolicyConditions": {
+    "description": "The current Language"
+  },
+  "payNow": "Pay Now",
+  "@payNow": {
+    "description": "The current Language"
+  },
+  "payment": "Payment",
+  "@payment": {
+    "description": "The current Language"
+  },
+  "currentRefundableAmount": "Current Refundable amount is {amount} {curr} and it may change depending on the time of cancellation",
+  "@currentRefundableAmount": {
+    "description": "The current Language",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "curr": {
+        "type": "String"
+      }
+    }
+  },
+  "bookingWasSuccessfully": "The booking was successfully",
+  "@bookingWasSuccessfully": {
+    "description": "The current Language"
+  },
+  "congratulations": "Congratulations",
+  "@congratulations": {
+    "description": "The current Language"
+  },
+  "bookingCanceled": "The booking was canceled",
+  "@bookingCanceled": {
+    "description": "The current Language"
+  },
+  "bookingDeclined": "",
+  "@bookingDeclined": {
+    "description": "The current Language"
+  },
+  "declinedPayment": "The booking was declined",
+  "@declinedPayment": {
+    "description": "The current Language"
+  },
+  "cancelPayment": "You just cancel the payment",
+  "@cancelPayment": {
+    "description": "The current Language"
+  },
+  "bookingFailed": "The booking was failed",
+  "@bookingFailed": {
+    "description": "The current Language"
+  },
+  "failedToCompleteBooking": "Failed to complete booking",
+  "@failedToCompleteBooking": {
+    "description": "The current Language"
+  },
+  "seeConfirmationDetails": "See Confirmation Details",
+  "@seeConfirmationDetails": {
+    "description": "The current Language"
+  },
+  "passengers": "Passengers",
+  "@passengers": {
+    "description": "The current Language"
+  },
+  "notSavingAnyDocuments": "We are not saving any documents on our servers",
+  "@notSavingAnyDocuments": {
+    "description": "The current Language"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "The current Language"
+  },
+  "general": "GENERAL",
+  "@general": {
+    "description": "The current Language"
+  },
+  "account": "ACCOUNT",
+  "@account": {
+    "description": "The current Language"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "The current Language"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "The current Language"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "The current Language"
+  },
+  "privacyPolicy": "privacy policy",
+  "@privacyPolicy": {
+    "description": "The current Language"
+  },
+  "privacyPolicyTitle": "PRIVACY POLICY",
+  "@privacyPolicyTitle": {
+    "description": "The current Language"
+  },
+  "termsAndConditions": "Terms and conditions",
+  "@termsAndConditions": {
+    "description": "The current Language"
+  },
+  "contactUs": "Contact us",
+  "@contactUs": {
+    "description": "The current Language"
+  },
+  "profileInformation": "Profile information",
+  "@profileInformation": {
+    "description": "The current Language"
+  },
+  "myBooking": "My Booking",
+  "@myBooking": {
+    "description": "The current Language"
+  },
+  "passengersRecords": "Passengers Records",
+  "@passengersRecords": {
+    "description": "The current Language"
+  },
+  "information": "Information",
+  "@information": {
+    "description": "The current Language"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "The current Language"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "The current Language"
+  },
+  "phone": "Phone",
+  "@phone": {
+    "description": "The current Language"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "The current Language"
+  },
+  "postalCode": "Postal code",
+  "@postalCode": {
+    "description": "The current Language"
+  },
+  "update": "Update",
+  "@update": {
+    "description": "The current Language"
+  },
+  "theyNoBooking": "They are no booking yet ",
+  "@theyNoBooking": {
+    "description": "The current Language"
+  },
+  "serviceDate": "Service date:",
+  "@serviceDate": {
+    "description": "The current Language"
+  },
+  "bookingDate": "Booking date:",
+  "@bookingDate": {
+    "description": "The current Language"
+  },
+  "bookingNo": "Booking No:",
+  "@bookingNo": {
+    "description": "The current Language"
+  },
+  "expired": "Expired",
+  "@expired:": {
+    "description": "The current Language"
+  },
+  "enterEmail": "Enter email",
+  "@enterEmail:": {
+    "description": "The current Language"
+  },
+  "enterPass": "Enter password",
+  "@enterPass:": {
+    "description": "The current Language"
+  },
+  "didHaveAccount": "Didn't have an account",
+  "@didHaveAccount:": {
+    "description": "The current Language"
+  },
+  "orSignInWith": "Or sign in with",
+  "@orSignInWith:": {
+    "description": "The current Language"
+  },
+  "registration": "Registration",
+  "@registration:": {
+    "description": "The current Language"
+  },
+  "confirmPass": "Confirm password",
+  "@confirmPass:": {
+    "description": "The current Language"
+  },
+  "rigPassword": "Password",
+  "@rigPassword:": {
+    "description": "The current Language"
+  },
+  "createAccount": "Create account",
+  "@createAccount:": {
+    "description": "The current Language"
+  },
+  "failedServices": "Failed Services",
+  "@failedServices:": {
+    "description": "The current Language"
+  },
+  "failedSomeServices": "Some services of your holiday package are not available at the moment kindly select an alternative options:",
+  "@failedSomeServices:": {
+    "description": "The current Language"
+  },
+  "pleaseReplaceYour": "Please replace your",
+  "@pleaseReplaceYour:": {
+    "description": "The current Language"
+  },
+  "activity": "Activity",
+  "@activity:": {
+    "description": "The current Language"
+  },
+  "checkPassengerInfo": "Flight \nPlease check your\nPassengers information",
+  "@checkPassengerInfo:": {
+    "description": "The current Language"
+  },
+  "passengerInformationIssue": "passenger information issue'",
+  "@passengerInformationIssue:": {
+    "description": "The current Language"
+  },
+  "applyFilter": "Apply Filter",
+  "@applyFilter:": {
+    "description": "The current Language"
+  },
+  "clear": "Clear",
+  "@clear:": {
+    "description": "The current Language"
+  },
+  "nonStop": "Non stop",
+  "@nonStop:": {
+    "description": "The current Language"
+  },
+  "oneStop": "One stop",
+  "@oneStop:": {
+    "description": "The current Language"
+  },
+  "mutliStop": "Multi stop",
+  "@mutliStop:": {
+    "description": "The current Language"
+  },
+  "sortByName": "Sort by name",
+  "@sortByName:": {
+    "description": "The current Language"
+  },
+  "sortByPrice": "Sort by price",
+  "@sortByPrice:": {
+    "description": "The current Language"
+  },
+  "sortByFlightStop": "Sort by flight stop",
+  "@sortByFlightStop:": {
+    "description": "The current Language"
+  },
+  "aToz": "A to z",
+  "@aToz:": {
+    "description": "The current Language"
+  },
+  "zToa": "Z to A",
+  "@zToa:": {
+    "description": "The current Language"
+  },
+  "stars": "{numOfstar} Stars",
+  "@stars": {
+    "description": "The current Language",
+    "placeholders": {
+      "numOfstar": {
+        "type": "String"
+      }
+    }
+  },
+  "youAccountMissSomeInformation": "You Account miss some information please update",
+  "@youAccountMissSomeInformation:": {
+    "description": "The current Language"
+  },
+  "adult": "adult",
+  "@adult:": {
+    "description": "The current Language"
+  },
+  "child": "child",
+  "@child:": {
+    "description": "The current Language"
+  },
+  "first": "First ",
+  "@first:": {
+    "description": "The current Language"
+  },
+  "second": "Second ",
+  "@second:": {
+    "description": "The current Language"
+  },
+  "third": "{numOfpass}rd",
+  "@third": {
+    "description": "The current Language",
+    "placeholders": {
+      "numOfpass": {
+        "type": "String"
+      }
+    }
+  },
+  "lastpass": "{numOfpass}th",
+  "@lastpass": {
+    "description": "The current Language",
+    "placeholders": {
+      "numOfpass": {
+        "type": "String"
+      }
+    }
+  },
+  "passengersInformation": "Passengers information",
+  "@passengersInformation:": {
+    "description": "The current Language"
+  },
+  "fillAllTheField": "please fill all the field",
+  "@fillAllTheField:": {
+    "description": "The current Language"
+  },
+  "thisPassportwasexpiry": "this Passport was expiry",
+  "@thisPassportwasexpiry:": {
+    "description": "The current Language"
+  },
+  "doubleCheckInformations": "Please verify your information",
+  "@doubleCheckInformations:": {
+    "description": "The current Language"
+  },
+  "thisPassengerDataIsAlreadyExists": "this passenger data is already exists ",
+  "@thisPassengerDataIsAlreadyExists:": {
+    "description": "The current Language"
+  },
+  "specialRequest": "Special request",
+  "@specialRequest:": {
+    "description": "The current Language"
+  },
+  "imageUpdatedSuccess": "profile image has been updated successfully",
+  "@imageUpdatedSuccess:": {
+    "description": "The current Language"
+  },
+  "tryAgainLater": "Please try again later",
+  "@tryAgainLater:": {
+    "description": "The current Language"
+  },
+  "invalidOrExpiredUrl": "invalid or expired share url ",
+  "@invalidOrExpiredUrl:": {
+    "description": "The current Language"
+  },
+  "pleaseLogin": "Please login",
+  "@pleaseLogin:": {
+    "description": "The current Language"
+  },
+  "informationUpdatedSuccess": "your profile has been updated successfully",
+  "@informationUpdatedSuccess:": {
+    "description": "The current Language"
+  },
+  "sectionManagerMess": "The {section} has been {action}ed",
+  "@sectionManagerMess": {
+    "description": "The current Language",
+    "placeholders": {
+      "section": {
+        "type": "String"
+      },
+      "action": {
+        "type": "String"
+      }
+    }
+  },
+  "hotelBeenRemoved": "Hotel has been removed",
+  "@hotelBeenRemoved:": {
+    "description": "The current Language"
+  },
+  "newHotelAdded": "New hotel added",
+  "@newHotelAdded:": {
+    "description": "The current Language"
+  },
+  "pleaseSelectOtherOne": " please select other one",
+  "@pleaseSelectOtherOne:": {
+    "description": "The current Language"
+  },
+  "hasBeenChanged": "has been changed",
+  "@hasBeenChanged:": {
+    "description": "The current Language"
+  },
+  "haveMailed": "We have e-mailed your password reset link! please check your email address",
+  "@haveMailed:": {
+    "description": "The current Language"
+  },
+  "passwordChangedSuc": "Password Changed Successfully",
+  "@passwordChangedSuc:": {
+    "description": "The current Language"
+  },
+  "passwordShouldBeDifferent": "New password should be different from old password",
+  "@passwordShouldBeDifferent:": {
+    "description": "The current Language"
+  },
+  "incorrectPassword": "Not authorized, incorrect password",
+  "@incorrectPassword:": {
+    "description": "The current Language"
+  },
+  "passengerHasBeenUpdatedSuccessfully": "passenger has been updated successfully",
+  "@passengerHasBeenUpdatedSuccessfully:": {
+    "description": "The current Language"
+  },
+  "couponHasBeenApplied": "Coupon has been applied",
+  "@couponHasBeenApplied:": {
+    "description": "The current Language"
+  },
+  "yourHolidayPackages": "Your Holiday Packages",
+  "@yourHolidayPackages:": {
+    "description": "The current Language"
+  },
+  "travelFromAnywhereToAnywhereInTheWorld": "Travel from anywhere to anywhere in the world",
+  "@travelFromAnywhereToAnywhereInTheWorld:": {
+    "description": "The current Language"
+  },
+  "customizableHolidayPackages": "With our fully customizable Holiday Packages",
+  "@customizableHolidayPackages:": {
+    "description": "The current Language"
+  },
+  "includingServices": "Including Flight, Hotel, Transfer and Tours.!",
+  "@includingServices:": {
+    "description": "The current Language"
+  },
+  "book": "Book",
+  "@book:": {
+    "description": "The current Language"
+  },
+  "childAges": "Child age:",
+  "@childAges:": {
+    "description": "The current Language"
+  },
+  "number": "Number",
+  "@number:": {
+    "description": "The current Language"
+  },
+  "shareYourPackage": "Share Your Package",
+  "@shareYourPackage:": {
+    "description": "The current Language"
+  },
+  "fors": "for",
+  "@fors:": {
+    "description": "The current Language"
+  },
+  "uAreNotLoggedIn": "you are not Logged in",
+  "@uAreNotLoggedIn:": {
+    "description": "The current Language"
+  },
+  "adultCount": "{count,plural, =0{} =1{1 adult} other{{count} adults}}",
+  "@adultCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "childCount": "{count,plural, =0{} =1{1 child} other{{count} children}}",
+  "@childCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "lungHasBeenChanged": "language has been changed",
+  "@lungHasBeenChanged": {
+    "description": "The current Language"
+  },
+  "currHasBeenChanged": "The currency has been changed",
+  "@currHasBeenChanged": {
+    "description": "The current Language"
+  },
+  "nightCount": "{count,plural, =0{} =1{1 night} other{{count} nights}}",
+  "@nightCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "dayCount": "{count,plural, =0{} =1{1 day} other{{count} days}}",
+  "@dayCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "mr": "Mr.",
+  "@mr": {
+    "description": "The current Language"
+  },
+  "mrs": "Mrs.",
+  "@mrs": {
+    "description": "The current Language"
+  },
+  "miss": "Miss.",
+  "@miss": {
+    "description": "The current Language"
+  },
+  "mstr": "Mstr.",
+  "@mstr": {
+    "description": "The current Language"
+  },
+  "invalidUsernameOrPassword": "You have entered an invalid username or password",
+  "@invalidUsernameOrPassword": {
+    "description": "The current Language"
+  },
+  "searchForTransfer": "Search for transfer",
+  "@searchForTransfer": {
+    "description": "The current Language"
+  },
+  "searchForActivity": "Search for activity",
+  "@searchForActivity": {
+    "description": "The current Language"
+  },
+  "pleaseSelectTheHotelNameOrDropOffLocation": "Please select the hotel name or Drop off location",
+  "@pleaseSelectTheHotelNameOrDropOffLocation": {
+    "description": "The current Language"
+  },
+  "pleaseSelectYourDropOffLocation": "Please select your drop off location ",
+  "@pleaseSelectYourDropOffLocation": {
+    "description": "The current Language"
+  },
+  "pleaseSelectPickupLocation": "Please select Pickup location",
+  "@pleaseSelectPickupLocation": {
+    "description": "The current Language"
+  },
+  "pleaseSelectTheAirportToHotel": "Please select the Airport or the Pickup location to hotel",
+  "@pleaseSelectTheAirportToHotel": {
+    "description": "The current Language"
+  },
+  "youDidSelectAnyLocationForTransfer": "you didn't select any location for transfer,\nyour package will be without Transfer do you want to continue",
+  "@youDidSelectAnyLocationForTransfer": {
+    "description": "The current Language"
+  },
+  "airports": "Airports",
+  "@airports": {
+    "description": "The current Language"
+  },
+  "airport": "Airport",
+  "@airport": {
+    "description": "The current Language"
+  },
+  "serviceName": "Service name : ",
+  "@serviceName": {
+    "description": "The current Language"
+  },
+  "price": "Price : ",
+  "@price": {
+    "description": "The current Language"
+  },
+  "selectTimeForPickupBackToTheAirport": "Select time for pickup from hotel back to the airport:",
+  "@selectTimeForPickupBackToTheAirport": {
+    "description": "The current Language"
+  },
+  "selectTimeForPickupFromAirportToTheHotel": "Select time for pickup from airport to the hotel:",
+  "@selectTimeForPickupFromAirportToTheHotel": {
+    "description": "The current Language"
+  },
+  "plzSelectServiceFirst": "please select the {service} first ",
+  "@plzSelectServiceFirst": {
+    "description": "The current Language",
+    "placeholders": {
+      "service": {
+        "type": "String"
+      }
+    }
+  },
+  "thePackageIsEmpty": "the package is empty please select other one",
+  "@thePackageIsEmpty": {
+    "description": "The current Language"
+  },
+  "noTransferFoundToTheLocation": "No transfer found to the location",
+  "@noTransferFoundToTheLocation": {
+    "description": "The current Language"
+  },
+  "pleaseEnterYourEmail": "Please enter your Email",
+  "@pleaseEnterYourEmail": {
+    "description": "The current Language"
+  },
+  "baggageInfo": "{num,plural, =0{} =1{1 pieces / Person} other{{num} Pieces / Person}}",
+  "@baggageInfo": {
+    "description": "The current Language",
+    "placeholders": {
+      "num": {}
+    }
+  },
+  "pleaseAcceptTheGeneralTerms": "Please accept the general terms",
+  "@pleaseAcceptTheGeneralTerms": {
+    "description": "The current Language"
+  },
+  "packageDescription": "Package gallery",
+  "@packageDescription": {
+    "description": "The current Language"
+  },
+  "rUSureToRemovePassenger": "Are you sure to remove this passenger",
+  "@rUSureToRemovePassenger": {
+    "description": "The current Language"
+  },
+  "passDeleted": "Passenger deleted",
+  "@passDeleted": {
+    "description": "The current Language"
+  },
+  "thisFlightFailedToBookingPlease": "This flight failed to booking please chose other one:",
+  "@thisFlightFailedToBookingPlease": {
+    "description": "The current Language"
+  },
+  "somethingWrong": "Something went wrong please try again",
+  "@somethingWrong": {
+    "description": "The current Language"
+  },
+  "uSaving": "You Saving:",
+  "@uSaving": {
+    "description": "The current Language"
+  },
+  "bestFamilyPac": "The best Family Holiday Packages",
+  "@bestFamilyPac": {
+    "description": "The current Language"
+  },
+  "colombo": "Colombo",
+  "@colombo": {
+    "description": "The current Language"
+  },
+  "male": "Male",
+  "@male": {
+    "description": "The current Language"
+  },
+  "paris": "Paris",
+  "@paris": {
+    "description": "The current Language"
+  },
+  "miamiBeach": "Miami Beach",
+  "@miamiBeach": {
+    "description": "The current Language"
+  },
+  "helsinki": "Helsinki",
+  "@helsinki": {
+    "description": "The current Language"
+  },
+  "dubrovnik": "Dubrovnik",
+  "@dubrovnik": {
+    "description": "The current Language"
+  },
+  "madrid": "Madrid",
+  "@madrid": {
+    "description": "The current Language"
+  },
+  "gothenburg": "Gothenburg",
+  "@gothenburg": {
+    "description": "The current Language"
+  },
+  "copenhagen": "Copenhagen",
+  "@copenhagen": {
+    "description": "The current Language"
+  },
+  "sanSalvador": "San Salvador",
+  "@sanSalvador": {
+    "description": "The current Language"
+  },
+  "dubai": "Dubai",
+  "@dubai": {
+    "description": "The current Language"
+  },
+  "london": "London",
+  "@london": {
+    "description": "The current Language"
+  },
+  "cancun": "Cancun",
+  "@cancun": {
+    "description": "The current Language"
+  },
+  "crete": "Crete",
+  "@crete": {
+    "description": "The current Language"
+  },
+  "rome": "Rome",
+  "@rome": {
+    "description": "The current Language"
+  },
+  "baku": "Baku",
+  "@baku": {
+    "description": "The current Language"
+  },
+  "tbilisi": "Tbilisi",
+  "@tbilisi": {
+    "description": "The current Language"
+  },
+  "belgrade": "Belgrade",
+  "@belgrade": {
+    "description": "The current Language"
+  },
+  "tirana": "Tirana",
+  "@tirana": {
+    "description": "The current Language"
+  },
+  "hurghada": "Hurghada",
+  "@hurghada": {
+    "description": "The current Language"
+  },
+  "topTrendingHPack": "Top Trending Holiday Packages",
+  "@topTrendingHPack": {
+    "description": "The current Language"
+  },
+  "takeFromCamera": "Take photo from Camera",
+  "@takeFromCamera": {
+    "description": "The current Language"
+  },
+  "takeFromGallery": "choose from Gallery",
+  "@takeFromGallery": {
+    "description": "The current Language"
+  },
+  "ins": "in",
+  "@in": {
+    "description": "The current Language"
+  },
+  "cancelBooking": "Cancel booking",
+  "@cancelBooking": {
+    "description": "The current Language"
+  },
+  "currentCancellationAmount": "Current cancellation charge is ",
+  "@currentCancellationAmount": {
+    "description": "The current Language"
+  },
+  "otherReason": "Other reason",
+  "@otherReason": {
+    "description": "The current Language"
+  },
+  "deleteAccount": "Delete this Account ?",
+  "@deleteAccount": {
+    "description": "The current Language"
+  },
+  "deleteSuccess": "The account has been deleted successfully",
+  "@deleteSuccess": {
+    "description": "The current Language"
+  },
+  "deleteFailed": "Failed to delete the account ,please try again later or contact us on support@ibookholiday.com",
+  "@deleteFailed": {
+    "description": "The current Language"
+  },
+  "loginDeactivated": "This account has been deactivated on {on} and will be deleted after {remainingDays} days ({deleteOn}).For account recovery kindly contact us on {support}",
+  "@loginDeactivated": {
+    "description": "The current Language",
+    "placeholders": {
+      "on": {
+        "type": "String"
+      },
+      "remainingDays": {
+        "type": "String"
+      },
+      "deleteOn": {
+        "type": "String"
+      },
+      "support": {
+        "type": "String"
+      }
+    }
+  },
+  "emailTaken": "The email has already been taken",
+  "@emailTaken": {
+    "description": "The current Language"
+  },
+  "sureToDeleteThisAccount": "Are you sure you want to delete this account",
+  "@sureToDeleteThisAccount": {
+    "description": "The current Language"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "The current Language"
+  },
+  "countdownConfirm": "Time to confirm your booking  ",
+  "@countdown": {
+    "description": "The current Language"
+  },
+  "uDidnotProceedyourbooking": "You  didn’t proceed for booking please try again ",
+  "@uDidnotProceedyourbooking": {
+    "description": "The current Language"
+  },
+  "tryAgain": "Try again",
+  "@tryAgain": {
+    "description": "The current Language"
+  },
+  "exploreMore": "Explore more",
+  "@exploreMore": {
+    "description": "The current Language"
+  },
+  "flights": "Flights",
+  "@flights": {
+    "description": "The current Language"
+  },
+  "hotels": "Hotels",
+  "@hotels": {
+    "description": "The current Language"
+  },
+  "activities": "Activities",
+  "@activities": {
+    "description": "The current Language"
+  },
+  "privetJet": "Privet jet",
+  "@privetJet": {
+    "description": "The current Language"
+  },
+  "travelInsurance": "Travel insurance",
+  "@travelInsurance": {
+    "description": "The current Language"
+  },
+  "transfers": "Transfers",
+  "@transfers": {
+    "description": "The current Language"
+  },
+  "changeRoom": "Change Room",
+  "@changeRoom": {
+    "description": "The current Language"
+  },
+  "flightTime": "Flight Time",
+  "@flightTime": {
+    "description": "The current Language"
+  },
+  "weCannotEstimate": "We can't estimate  your departure time  on the last day Would you like to book any activity on that day? ",
+  "@weCannotEstimate": {
+    "description": "The current Language"
+  },
+  "pax": "Pax",
+  "@pax": {
+    "description": "The current Language"
+  },
+  "minCategory": "Min. Category",
+  "@minCategory": {
+    "description": "The current Language"
+  },
+  "one": "One",
+  "@one": {
+    "description": "The current Language"
+  },
+  "round": "Round",
+  "@round": {
+    "description": "The current Language"
+  },
+  "departureDate": "Departure date",
+  "@departureDate": {
+    "description": "The current Language"
+  },
+  "departureTime": "Departure time",
+  "@departureTime": {
+    "description": "The current Language"
+  },
+  "selectDepartureTimes": "Select departure Time",
+  "@selectDepartureTimes": {
+    "description": "The current Language"
+  },
+  "returnDate": "Return date",
+  "@returnDate": {
+    "description": "The current Language"
+  },
+  "returnTime": "Return time",
+  "@returnTime": {
+    "description": "The current Language"
+  },
+  "selectReturnTimes": "Select return Time",
+  "@selectReturnTimes": {
+    "description": "The current Language"
+  },
+  "minute": "Minute",
+  "@minute": {
+    "description": "The current Language"
+  },
+  "hour": "Hour",
+  "@hour": {
+    "description": "The current Language"
+  },
+  "save": "save",
+  "@save": {
+    "description": "The current Language"
+  },
+  "travelerDetails": "Personal Details",
+  "@travelerDetails": {
+    "description": "The current Language"
+  },
+  "middleName": "Middle name",
+  "@middleName": {
+    "description": "The current Language"
+  },
+  "onePassenger": "Passenger",
+  "@onePassenger": {
+    "description": "The current Language"
+  },
+  "send": "Send",
+  "@send": {
+    "description": "The current Language"
+  },
+  "seniorTravelers": "Senior Travelers",
+  "@seniorTravelers": {
+    "description": "The current Language"
+  },
+  "to": "to",
+  "@to": {
+    "description": "The current Language"
+  },
+  "failedToFormatTravelIN": "Failed to format request please try again later or mail us on info@ibookholiday.com",
+  "@failedToFormatTravelIN": {
+    "description": "The current Language"
+  },
+  "errorHappened": "An error occurred",
+  "@errorHappened": {
+    "description": "The current Language"
+  },
+  "successToFormattingTravelIn": "Your request has been submitted.\n We will contact you shortly",
+  "@successToFormattingTravelIn": {
+    "description": "The current Language"
+  },
+  "atLestPax": "This option need at lest 19 PAX and Pax number set to 19 ",
+  "@atLestPax": {
+    "description": "The current Language"
+  },
+  "plzPhoneNumber": "Please enter your phone number",
+  "@plzPhoneNumber": {
+    "description": "The current Language"
+  },
+  "plzEmail": "Please enter your Email",
+  "@plzEmail": {
+    "description": "The current Language"
+  },
+  "thisFiledIsRequired": "This field required",
+  "@thisFiledIsRequired": {
+    "description": "The current Language"
+  },
+  "plzSelectMinCategory": "Please select privet jet Min category",
+  "@plzSelectMinCategory": {
+    "description": "The current Language"
+  },
+  "carDetails": "Car details",
+  "@carDetails": {
+    "description": "The current Language"
+  },
+  "pickupInformation": "Pickup information",
+  "@pickupInformation": {
+    "description": "The current Language"
+  },
+  "waitingInformation": "Waiting information",
+  "@waitingInformation": {
+    "description": "The current Language"
+  },
+  "generalInformation": "General information",
+  "@generalInformation": {
+    "description": "The current Language"
+  },
+  "transferDetail": "Transfer details",
+  "@transferDetail": {
+    "description": "The current Language"
+  },
+  "plzSelectOneDayNext": "Please Select at lest one day next",
+  "@plzSelectOneDayNext": {
+    "description": "The current Language"
+  },
+  "pressAddActivityButtonToAddActivity": "Press add activity button to add",
+  "@pressAddActivityButtonToAddActivity": {
+    "description": "The current Language"
+  },
+  "fromWhichCity": "From which city ?",
+  "@fromWhichCity": {
+    "description": "The current Language"
+  },
+  "roomStartingFrom": "Starting from",
+  "@roomStartingFrom": {
+    "description": "The current Language"
+  },
+  "showMore": "Show more",
+  "@showMore": {
+    "description": "The current Language"
+  },
+  "showLess": "Show less",
+  "@showLess": {
+    "description": "The current Language"
+  },
+  "voucherDetails": "Voucher details",
+  "@voucherDetails": {
+    "description": "The current Language"
+  },
+  "backToBookingList": "Back to booking list",
+  "@backToBookingList": {
+    "description": "The current Language"
+  },
+  "payByCreditBalance": "Pay by credit balance",
+  "@payByCreditBalance": {
+    "description": "The current Language"
+  },
+  "availableRooms": "Available rooms",
+  "@availableRooms": {
+    "description": "The current Language"
+  },
+  "paidAmount": "Paid amount",
+  "@paidAmount": {
+    "description": "The current Language"
+  },
+  "paidFromCredit": "Paid from credit balance",
+  "@paidFromCredit": {
+    "description": "The current Language"
+  },
+  "ascending": "ascending",
+  "@ascending": {
+    "description": "The current Language"
+  },
+  "descending": "descending",
+  "@descending": {
+    "description": "The current Language"
+  },
+  "offerAndPromotions": "Offer and promotion",
+  "@offerAndPromotions": {
+    "description": "The current Language"
+  },
+  "transactionFees": "Transaction fees",
+  "@transactionFees": {
+    "description": "The current Language"
+  },
+  "paymentMethod": "Payment method",
+  "@paymentMethod": {
+    "description": "The current Language"
+  },
+  "card": "  Credit/Debit Cards ",
+  "@card": {
+    "description": "The current Language"
+  },
+  "cryptoCurrency": "  Coinbase  ",
+  "@cryptoCurrency": {
+    "description": "The current Language"
+  },
+  "back": "Back",
+  "@back": {
+    "description": "The current Language"
+  },
+  "gameDiscount": "Game discount",
+  "@gameDiscount": {
+    "description": "The current Language"
+  },
+  "useCreditBalance": "  Use you credit balance",
+  "@useCreditBalance": {
+    "description": "The current Language"
+  },
+  "yourESimCard": "Your E-sim card",
+  "@yourESimCard": {
+    "description": "The current Language"
+  },
+  "esimCard": "E-sim card",
+  "@esimCard": {
+    "description": "The current Language"
+  },
+  "changeESIMAppbarTitle": "Choose your alternative E-Sim",
+  "@changeESIMAppbarTitle": {
+    "description": "The current Language"
+  },
+  "roamingAvailableIn": "Roaming available in {roamingCountry} Countries",
+  "@roamingAvailableIn": {
+    "placeholders": {
+      "roamingCountry": {
+        "type": "String"
+      }
+    }
+  },
+  "howToInstallEsim": "How to install E-sim",
+  "validity": "Validity",
+  "activityDetails": "Activity details",
+  "creditBalance": "Credit balance",
+  "resetPassword": "Reset password",
+  "changePassword": "Change password",
+  "lastName": "Last name",
+  "editPassenger": "Edit passenger",
+  "areUsureToCancellThisBooking": "Are you sure to cancel this booking",
+  "pleaseEnterEmailLinkedWithThisAccount": "Please enter the Email that linked with this Account",
+  "oldPass": "Old password",
+  "newPass": "New password",
+  "pleaseAnswerThisQuestions": "Please answer this questions for the activities",
+  "answer": "Answer",
+  "required": "Required",
+  "on": "on",
+  "failedToPrebook": "failed to prebook",
+  "onWayFlight": "On way flight",
+  "umrah": "Umrah",
+  "umrahPackages": "Umrah packages",
+  "umrahAndActivities": "Umrah and activities",
+  "distenceFromAlKaaba": "km from Masjid al-Haram (Kaaba)",
+  "changeFlights": "More flight options",
+  "flightNo": "Flight no",
+  "transStartFrom": "Starting form",
+  "transfinalDestination": "Final destination",
+  "moreHotels": "More hotels",
+  "roomOption": "Room options",
+  "moreTransferOption": "More transfer options",
+  "moreESIMOption": "More E-sim options",
+  "transFromHToA": "Trip from the hotel to the airport",
+  "transFromAToH": "Trip from the airport to the hotel",
+  "off": "of",
+  "addRoom": "add room",
+  "departureLocation": "Departure location",
+  "arrivalLocation": "Arrival location",
+  "hotelCancelationValue": "A charge of {amount} {currency} will be applied starting from {date}",
+  "@hotelCancelationValue": {
+    "description": "The current Language",
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      },
+      "currency": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "recentSearch": "Recent search",
+  "@recentSearch": {
+    "description": "The current Language"
+  },
+  "removeEsimFromPackage": "Remove E-sim from package"
+}
